@@ -14,7 +14,7 @@
   
 👯 I’m looking to collaborate on a MERN stack project.
   
-👨‍💻 My Website with all of my projects are available at vedpahune.me
+👨‍💻 My Website with all of my projects are available at [vedpahune.me](https://vedpahune.me/)
 
 📫 You can shoot me an email at pahuneved@gmail.com I'll try to respond as soon as I can.
   
