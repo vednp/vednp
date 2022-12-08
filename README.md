@@ -12,7 +12,7 @@
 🧭 Also exploring Machine Learning & Web3.
   
   
-👯 I’m looking to collaborate on a MERN stack project.
+🤝 I’m looking to collaborate on a MERN stack project.
   
 👨‍💻 My Website with all of my projects are available at [vedpahune.me](https://vedpahune.me/)
 
