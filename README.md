@@ -16,7 +16,16 @@
 
 
 📫 You can shoot me an email at pahuneved@gmail.com I'll try to respond as soon as I can.
+
+
+
+[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednp&theme=radical)](https://github.com/vednp/github-readme-stats&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vednp&layout=donut)](https://github.com/vednp/github-readme-stats)
+
+
   
+
 <h3>Tech I Know:</h3>
   <div class="flex-container">
    <img style="width:50px" src="https://cdn-icons-png.flaticon.com/512/875/875209.png">  
