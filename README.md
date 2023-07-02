@@ -19,9 +19,9 @@
 
 
 
-[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednp&theme=radical)](https://github.com/vednp/github-readme-stats&theme=radical)
+[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednp&theme=radical&bg_color=0,0f0c29,302b63,24243e)](https://github.com/vednp/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vednp&layout=donut)](https://github.com/vednp/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vednp&hide_progress=true&theme=radical&bg_color=0,0f0c29,302b63,24243e)
 
 
   
