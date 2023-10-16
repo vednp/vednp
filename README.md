@@ -2,7 +2,7 @@
 <h3 align="center"> A CSE undergraduate student who loves to build, develop, and create . Currently working on Web development. I’m passionate about learning new technologies. </h3>
  
 <h2>🚀 About Me</h2>
-<p>🎓 I am Ved, currently pursuing my bachelor's degree majoring in computer science. Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.<p>
+<p>🎓 I am Ved, currently pursuing my bachelor's degree majoring in computer science. Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.<p> 
 
 👨‍💻 When I'm free I participate in open-source projects, competitive programming, hackathons.
 
