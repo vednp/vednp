@@ -4,7 +4,7 @@
 <h2>🚀 About Me</h2>
 <p>🎓 I am Ved, currently pursuing my bachelor's degree majoring in computer science. Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.<p> 
 
-👨‍💻 When I'm free I participate in open-source projects, competitive programming, hackathons.
+👨‍💻 When I'm free I participate in open-source projects and hackathons.
 
 🌱 I’m currently learning Web Development.
   
