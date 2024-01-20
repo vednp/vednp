@@ -4,11 +4,15 @@
 <h2>🚀 About Me</h2>
 <p>🎓 I am Ved, currently pursuing my bachelor's degree majoring in computer science. Interested in problem-­solving and building highly scalable and available systems.<p> 
 
+
 👨‍💻 Actively contributing to open-source projects and participating in hackathons during free time.
+
   
 🧭 Enthusiastically exploring emerging tech trends every day fostering a continuous learning mindset.
+
   
 🤝 I am open to collaboration on exciting projects. Let's work together to create something remarkable.
+
 
 📫 You can reach out to me via email at <a href="mailto:pahuneved@gmail.com">pahuneved@gmail.com</a>. I'll do my best to respond promptly
 
