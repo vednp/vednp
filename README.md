@@ -1,4 +1,4 @@
-<h1 align="center" > Hi 👋 I'm Ved</h1>
+<h1 align="center" > Hi 👋 I'm Ved</h1> 
 <h3 align="center"> A dedicated Computer Science undergraduate student and Web Developer with a fervor for building and creating robust and scalable solutions. </h3>
  
 <h2>🚀 About Me</h2>
