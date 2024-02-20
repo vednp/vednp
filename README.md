@@ -20,7 +20,7 @@
 
 [![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednp&theme=radical&bg_color=0,0f0c29,302b63,24243e)](https://github.com/vednp/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vednp&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=vednp&theme=dark)](https://git.io/streak-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vednp&hide_progress=true&theme=radical&bg_color=0,0f0c29,302b63,24243e)
 
